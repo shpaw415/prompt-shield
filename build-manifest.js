@@ -8,7 +8,7 @@ const manifest = {
   $schema: "/home/agent/.config/opencode/skills/plugin/open-bot.plugin.schema.json",
   id: "prompt-shield",
   name: "Prompt Shield",
-  version: "beta-1",
+  version: "0.1.0",
   description:
     "Anti prompt-injection pour l'agent et les plugins : wrap du texte non fiable (sanitize) et verdict à la volée via ob-system1 (scan). Pages web, courriels, Messenger, réponses d'API : analysés comme données avant d'agir.",
   author: "shpaw415",
